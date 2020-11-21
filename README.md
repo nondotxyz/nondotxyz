@@ -8,4 +8,4 @@
 &nbsp;&nbsp;
 [![youtube](src/iconmonstr-youtube-7.svg)](https://www.youtube.com/channel/UCzZWrRZT7gymyR-CSckkqRA/)
 &nbsp;&nbsp;
-[![gmail](src/iconmonstr-gmail-2.svg)](mailto:shippudennaruto668@gmail.com)
+[![gmail](src/iconmonstr-gmail-2.svg)](shippudennaruto668@gmail.com)
