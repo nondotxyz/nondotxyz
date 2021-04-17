@@ -1,11 +1,13 @@
-## **_Hello there_** 👋
-**My name is Fadhli** and I'm a 13 year old programmer that are willing to give my best to improveother people lives... or may cause some havoc all around the internet.
+# **Hello there. 👋**
 
-## **Reach me on.. 💌**
-[![twitter](src/iconmonstr-twitter-2.svg)](https://www.twitter.com/Fadhli890)
-&nbsp;&nbsp;
-[![github](src/iconmonstr-github-2.svg)](https://www.github.com/Fadhli890)
-&nbsp;&nbsp;
-[![youtube](src/iconmonstr-youtube-7.svg)](https://www.youtube.com/channel/UCzZWrRZT7gymyR-CSckkqRA/)
-&nbsp;&nbsp;
-[![gmail](src/iconmonstr-gmail-2.svg)](shippudennaruto668@gmail.com)
+### **Who am I? 🧾**
+
+---
+
+_My name is Fadhli_ or you can call me by nickname which is Non or Non-Existant.<br> I am a student currently learning a lot of project starting from Web Development on the FrontEnd and BackEnd to Game Development using Unity.
+
+| Contact                                   | User Handle       |
+| ----------------------------------------- | ----------------- |
+| ![Discord](/src/iconmonstr-discord-7.svg) | Non-Existant#9050 |
+| ![GitHub](/src/iconmonstr-github-2.svg)   | @Fadhli890        |
+| ![Twitter](/src/iconmonstr-twitter-2.svg) | @Fadhli890        |
