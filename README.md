@@ -4,7 +4,7 @@
 
 ---
 
-_My name is Fadhli_ or you can call me by nickname which is Non or Non-Existant.<br> I am a student currently learning a lot of project starting from Web Development on the FrontEnd and BackEnd to Game Development using Unity.
+_My name is Fadhli_ or you can call me by nickname which is nondotxyz.<br> I am a student currently learning a lot of project starting from Web Development on the FrontEnd and BackEnd to Game Development using Unity.
 
 | Contact                                   | User Handle       |
 | ----------------------------------------- | ----------------- |
